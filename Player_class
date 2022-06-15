@@ -1,0 +1,32 @@
+class Player:
+
+    def __init__(self, name, used_word):
+        self.name = name
+        self.used_word = used_word
+
+
+    def receiving_used_word(self):
+        """получение количества использованных
+        слов (возвращает int);
+        :param
+        :return int() """
+
+        return int()
+
+    def adding_in_used_word(self):
+        """добавление слова в использованные
+        слова (ничего не возвращает);
+        :param
+        :return None"""
+
+    def examination_used_word(self):
+        """проверка использования данного
+        слова до этого (возвращает bool).
+        :param
+        :return bool """
+
+        if test == test_2:
+            return True
+
+        else:
+            return False
